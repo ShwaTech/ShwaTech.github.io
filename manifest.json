@@ -1,0 +1,35 @@
+{
+    "name": "Mohmed Fathy",
+    "short_name": "Mohmed Fathy",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1B4242",
+    "theme_color": "#1B4242",
+    "description": "Mohamed Fathy is an Artificial Intelligence Engineer specializing in LLMs, LLMOps/MLOps and Agentic AI, with extensive experience in developing, integrating, testing, deploying and maintaining AI systems.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-192-maskable.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-512-maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
